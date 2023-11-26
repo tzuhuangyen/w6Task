@@ -1,6 +1,7 @@
 # React + Vite
 REDI w6task
 Week 6 P2P - Integrate the Project in to a new React Project
+
 Fork and create your react project cloned from the bootstrap project, Build and locally run the bootstrap
 application, create a page having a subscription form and which will also show the submitted data after
 submitting it
